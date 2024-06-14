@@ -1,3 +1,11 @@
+// ask for min and max
+// ask for number of chance to try
+// generate the number to guess within the allowed range
+// have a counter that is increased on each iteration
+// use do while loop to ask for user input whislt checking for the number of chance
+// if if user guess right, exit congratulating him, else show the right answer
+//NB: ONLY SHOW THE RIGHT ANSWER WHEN USER IS WRONG AFTER THE LOOP
+
 import java.util.Scanner;
 
 public class Main {
